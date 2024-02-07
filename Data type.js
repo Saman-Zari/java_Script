@@ -16,3 +16,12 @@ let age = 22 //number
 
 console.log(typeof undefined); //this output is undefine
 console.log(typeof null);  //this type is object
+
+//**********primative data type***********
+// type : string, number , boolrean , null, undefined , symbol, BigInt 
+
+//
+
+//************non primative / refrence type*************
+
+// Array, Objects, Functions
